@@ -1,0 +1,37 @@
+# Core Dependencies
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Data & Analytics
+pandas>=2.1.0
+numpy>=1.24.0
+
+# Database
+sqlalchemy>=2.0.0
+
+# CLI & UI
+rich>=13.7.0
+click>=8.1.0
+
+# Logging
+loguru>=0.7.2
+
+# Date/Time
+python-dateutil>=2.8.2
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+pytest-asyncio>=0.21.0
+
+# Code Quality
+ruff>=0.1.0
+black>=23.0.0
+mypy>=1.7.0
+
+# MCP (Model Context Protocol)
+# Will be added when MCP Python SDK is available
+
+# Optional: AI/ML for categorization
+# scikit-learn>=1.3.0
+# joblib>=1.3.0
